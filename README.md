@@ -1,1 +1,1 @@
-# praktikumMobpro
+# Repository untuk Praktikum Mobile Programming
