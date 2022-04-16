@@ -69,7 +69,7 @@ class mainProfile extends StatelessWidget {
         ),
         Center(
           child: Text(
-            'refansyach.065119226@unpak.ac.id',
+            'refansyach.email@confidential.com',
             style: TextStyle(color: Colors.grey),
           ),
         ),
@@ -156,7 +156,7 @@ class mainProfile extends StatelessWidget {
                   children: const <Widget>[
                     Text('Nama Lengkap',
                         style: TextStyle(fontWeight: FontWeight.bold)),
-                    Text('Muhammad Refansyach Sugianto',
+                    Text('Muhammad Refansyach S.',
                         style: TextStyle(
                             color: Colors.grey, fontWeight: FontWeight.bold)),
                     
